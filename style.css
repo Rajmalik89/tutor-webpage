@@ -81,9 +81,6 @@ display: flex;
   position: absolute;
   bottom: 0%;
   right: 160px;
-  border-style: ridge;
-  border-color: #9cb2ce, 60px;
-  
 }
 .social-links{
   transform: rotate(-90deg);
